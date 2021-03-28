@@ -8,9 +8,9 @@ next: introduction/README.md
 
 从 JavaScript 程序员的角度总结思考，循序渐进的理解 TypeScript。
 
-**为了大家更好的掌握 TypeScript，我整理了三套我认为很好的 TypeScript 教程，以及百本前端电子书。强烈建议大家下载！**
+**为了大家更好的掌握 TypeScript，我整理了三套我认为很好的 TypeScript 教程，以及百本前端电子书。**
 
-### [点击下载全部 提取密码：8f8b](https://www.geekxh.com/ts.html?4d9v)
+### [强烈建议大家下载！提取密码：8f8b](https://www.geekxh.com/ts.html?4d9v)
 
 <a href="https://www.geekxh.com/ts.html?4d9v"><img src="https://www.geekxh.com/ts/08.png?tstr"></a>
 
