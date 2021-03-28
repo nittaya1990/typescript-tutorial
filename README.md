@@ -8,11 +8,9 @@ next: introduction/README.md
 
 从 JavaScript 程序员的角度总结思考，循序渐进的理解 TypeScript。
 
-## [点击下载本书 提取密码：8f8b](https://www.geekxh.com/ts.html?4d9v)
+**为了大家更好的掌握 TypeScript，我整理了三套我认为很好的 TypeScript 教程，以及百本前端电子书。强烈建议大家下载！**
 
-> **该资源包括：** 
-> 
-> 1：TypeScript 入门教程电子书 2：BAT/TMD 大厂面经 3：百本前端开源电子书 4：50 张思维导图
+### [点击下载全部 提取密码：8f8b](https://www.geekxh.com/ts.html?4d9v)
 
 <a href="https://www.geekxh.com/ts.html?4d9v"><img src="https://www.geekxh.com/ts/08.png?tstr"></a>
 
